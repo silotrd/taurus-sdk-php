@@ -49,8 +49,6 @@ try {
 }
 ```
 
-[sdk-website]: http://aws.amazon.com/sdkforphp
-
 [latest-release]: https://github.com/silotrd/taurus-sdk-php/releases
 
 [docs-signup]: https://mc.silot.ai/
