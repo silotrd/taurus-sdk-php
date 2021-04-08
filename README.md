@@ -9,7 +9,7 @@ Jump To:
 
 * [Getting Started](#Getting-Started)
 * [Quick Examples](#Quick-Examples)
-* [More Examples][docs-more-examples]
+* [More Examples](#More Examples)
 
 ## Getting Started
 
@@ -48,6 +48,10 @@ try {
     echo "There was an error.\n";
 }
 ```
+
+## More Examples
+
+For more examples, please refer to [More Examples][docs-more-examples]
 
 [latest-release]: https://github.com/silotrd/taurus-sdk-php/releases
 
